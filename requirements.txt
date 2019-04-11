@@ -1,0 +1,10 @@
+flask
+flask-restful
+flask-jwt-extended
+flask-sqlalchemy
+passlib
+pytest
+pytest-flask
+
+#connexion[swagger-ui]
+#Flask-Injector
